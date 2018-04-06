@@ -1,2 +1,3 @@
-# reinforcement-learning_private
-Reinforcement learning material, code and exercises.
+# Reinforcement Learning
+
+Reinforcement learning material, code and exercises for [Udacity](https://www.udacity.com/) Nanodegree programs.
